@@ -1,4 +1,4 @@
-### [Wakame-vdc](https://github.com/axsh/wakame-vdc) 
+### Wakame-vdc Bookmarks
 
 + [axsh/wakame-vdc](https://github.com/axsh/wakame-vdc)
 + [Home · axsh/wakame-vdc Wiki](https://github.com/axsh/wakame-vdc/wiki)
@@ -49,7 +49,7 @@
 + 2011/10/28 [[RHEL][Linux] インターネット非接続サーバ上にRuby開発環境を構築する(Red Hat Enterprise Linux 6編) | blog.hansode.org](http://blog.hansode.org/archives/52501741.html)
 + 2011/12/01 [OpenStackプロジェクトの全体像～詳細編～](https://www.nic.ad.jp/ja/materials/iw/2011/proceedings/d3/d3-09.pdf)
 + 2011/12/26 [Wakame-vdcの最新版（v11.12）リリース、多数の機能拡張と、OpenFlowに対応 [ #opencloudjp ] | Open Source Cloud News J](https://osnewsj.wordpress.com/2011/12/26/wakame-vdc%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88%EF%BC%88v11-12%EF%BC%89%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%81%E5%A4%9A%E6%95%B0%E3%81%AE%E6%A9%9F%E8%83%BD%E6%8B%A1%E5%BC%B5%E3%81%A8%E3%80%81open/)
-+ 2011//12/26 [26 | December | 2011 | Open Source Cloud News J](https://osnewsj.wordpress.com/2011/12/26/)
++ 2011/12/26 [26 | December | 2011 | Open Source Cloud News J](https://osnewsj.wordpress.com/2011/12/26/)
 
 ####2012
 

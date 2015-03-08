@@ -6,6 +6,12 @@
 
 #### 2010
 
++ 2010/01/06 [やむにやまれず : 「WakameTech #1 そろそろ本気でIaaS型クラウドを作る会」 やります。](http://blog.livedoor.jp/sparklegate/archives/50567458.html)
++ 2010/01/30 [WakameTech #1 : ATND](https://atnd.org/events/2753)
++ 2010/01/30 [バケツ: WakameTech #1に行ってきました](http://ibucket.blogspot.jp/2010/01/wakametech-1.html)
++ 2010/01/31 [WakameTech #1(そろそろ本気でIaaS型クラウドを作る会)にいってきました | shinodogg.com](http://shinodogg.com/?p=2969)
++ 2010/01/31 [tech note: WakameTech #1 へ行ってきた](http://ktjtn.blogspot.jp/2010/01/wakametech-1.html)
++ 2010/03/12 [ニャンパス@レイクタウン 登尾のブログ: WakameTech #1 そろそろ本気でIaaS型クラウドを作る会のプレゼン資料](http://tnoborio.blogspot.jp/2010/03/wakametech-1-iaas.html)
 + 2010/04/15 [[Wakame][Ruby] [CentOS] RPM非依存のRuby環境構築 | blog.hansode.org](http://blog.hansode.org/archives/52296872.html)
 + 2010/04/19 [axsh/wakame-vdc](https://github.com/axsh/wakame-vdc)
 + 2010/04/19 [あくしゅ、Amazon EC2のようなクラウド環境が作れるOSS「Wakame-vdc」公開 :ベンチャーニュース：Venture Now（ベンチャーナウ）](http://www.venturenow.jp/news/2010/04/19/2007_008250.html)
@@ -15,6 +21,11 @@
 + 2010/07/12 [第2回クラウド勉強会 - sinkin' in the rain](http://tsukamoto.tumblr.com/post/800295290)
 + 2010/07/20 [バケツ: 2010-07-09 第2回クラウド勉強会のメモ](http://ibucket.blogspot.jp/2010/07/2010-07-09-2.html)
 + 2010/08/04 [[Wakame][CentOS] wakame-vdc環境構築スクリプト用のリポジトリを作った | blog.hansode.org](http://blog.hansode.org/archives/52351607.html)
++ 2010/08/20 [WakameTech #2 : ATND](https://atnd.org/events/6665)
++ 2010/10/18 [WakameTech#3を開催いたします](http://axsh.jp/news/publicity/457)
++ 2010/10/29 [WakameTech #3 : ATND](https://atnd.org/events/8337)
++ 2010/11/01 [WakameTech #3](http://www.slideshare.net/yasuhiro_yamazaki/wakame-tech3-wakameosv000)
++ 2010/11/03 [WakameTech #2](http://www.slideshare.net/yasuhiro_yamazaki/wakame-tech2-v000)
 + 2010/11/19 [あくしゅ，シンプルなIaaS型クラウドを構築する「Wakame-vdc」の最新版をリリース ：ニュースリリース｜gihyo.jp … 技術評論社](http://gihyo.jp/news/nr/2010/11/1902)
 + 2010/11/19 [WAWakame-vdc最新版がリリース](http://wslash.com/?p=3013)
 + 2010/11/21 [IaaS型クラウド環境を作る「Wakame-vdc」リリース | スラッシュドット・ジャパン オープンソース](http://opensource.slashdot.jp/story/10/11/21/0148200/)
@@ -54,6 +65,8 @@
 ####2012
 
 + 2012/01/04 [やむにやまれず : Wakame-VDC v11.12をリリースしてみて](http://blog.livedoor.jp/sparklegate/archives/50858707.html)
++ 2012/01/19 [WakameTech#4を開催いたします](http://axsh.jp/news/publicity/669)
++ 2012/02/03 [WakameTech#4 : ATND](https://atnd.org/events/24133)
 + 2012/02/15 [オープン・クラウドの記事: aji blog](http://ajiblog.sblo.jp/article/53922184.html)
 + 2012/02/21 [Wakame-VDCをエンタープライズのビッグデータ処理基盤として活用する](http://opencarf.org/wp-content/uploads/2012/02/GRACE-Seminar-20120221-04-yamasaki.pdf)
 + 2012/02/23 [第４回　「フクオカＲｕｂｙ大賞」　受賞作品発表！ - 福岡県Ruby・コンテンツビジネス振興会議](http://www.digitalfukuoka.jp/event_reports/7)
@@ -107,6 +120,7 @@
 + 2013/09/26 [顧客が求めるクラウドサービスは自ら創る！開発のプロと運用のプロによるクラウドサービスの新たな価値創造｜KCCS](http://www.kccs.co.jp/special/1306/)
 + 2013/09/26 [仮想化･クラウドピューティング 基盤環境構築ソフトウェア ～Wakame-VDC～](http://www.lac.co.jp/event/pdf/2013/0926seminar-01.pdf)
 + 2013/09/26 [柔軟性の高いクラウド基盤構築セミナー｜ビジネス+IT](http://www.sbbit.jp/eventinfo/17992/)
++ 2013/10/25 [Wakame Users Group #002 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/6696)
 + 2013/11/08 [急増するAmazon互換クラウド - ［4］管理自動化に欠かせない管理用APIの互換性：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20131029/514671/)
 + 2013/12/03 [Wakame/OpenVNet Advent Calendar « TheDesignium](http://www.thedesignium.com/work/4987)
 + 2013/12/04 [Wakame-VDCにおける継続的改善(1/n) 継続的パッケージビルド | blog.hansode.org](http://blog.hansode.org/archives/52613038.html)
@@ -134,6 +148,7 @@
 + 2014/02/21 [オープンクラウド実証実験タスクフォース](http://www.ocdet.org/log/20140221_seminar02.html)
 + 2014/02/24 [オープンクラウド勉強会 Wakame-vdc & OpenVnet 山崎氏 - YouTube](https://www.youtube.com/watch?v=C8E2-iLPU-I)
 + 2014/03/08 [第9回クラウドごった煮 - クラウドごった煮](http://www.cloudmix.jp/home/di9huikuraudogotta-zhu)
++ 2014/04/25 [Wakameユーザ会 #004 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/9966)
 + 2014/04/25 [アイギーク、オープンソースのストレージ管理システム「Indelible FS」のベータ版をリリース｜アイギーク株式会社のプレスリリース](http://prtimes.jp/main/html/rd/p/000000001.000010099.html)
 + 2014/04/26 [アイギーク、オープンソースのストレージ管理システム「Indelible FS」のベータ版をリリース - CNET Japan](http://japan.cnet.com/release/30069790/)
 + 2014/04/26 [OSSストレージ管理システムベータ版 - NewsAsiaBiz](http://asiabiz.sakura.ne.jp/first_website/newsasiabiz/2014/04/oss-13.html)
@@ -141,8 +156,10 @@
 + 2014/06/22 [気軽に手軽に増える Wakame-VDC // Speaker Deck](https://speakerdeck.com/habuka036/qi-qing-nishou-qing-nizeng-eru-wakame-vdc)
 + 2014/06/24 [「July Tech Festa　2014」の公開されている発表資料のまとめ](http://wslash.com/?p=5670)
 + 2014/06/27 [「ケーブル技術ショー2014」出展のご案内 | ネクストキャディックス株式会社](http://www.nextcadix.co.jp/news/news20140627_1.html)
++ 2014/07/25 [Wakameユーザ会 #005 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/12764)
 + 2014/08/05 [【ケーブル技術ショー2014レポート】クラウドコンピューティング×オープンソース技術と題しセミナー開催｜KCCS](http://www.kccs.co.jp/topics/2014/029/)
 + 2014/10/19 [新しくなった install guide で Wakame-vdc を楽しんでみる(1) - きりんメモ@GIFU](http://giraffeforestg.blog.fc2.com/blog-entry-180.html)
++ 2014/10/31 [Wakameユーザ会 #006 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/15600)
 + 2014/11/30 [Wakame-vdc / OpenVNet Advent Calendar 2014 - Adventar](http://www.adventar.org/calendars/577)
 + 2014/11/30 [Wakame-vdc / OpenVNet Advent Calendar 2014 : ATND](https://atnd.org/events/59831)
 + 2014/12/01 [Wakame-VDC の LiveDVD を作る方法 〜CentOS 版〜 - hablog](http://blog.osamu.habuka.jp/blog/2014/12/01/how-to-make-wakame-vdc-livedvd/)
@@ -172,6 +189,7 @@
 
 + 2015/01/05 [wakame-vdc : Project Summary: Factoids - Open Hub](https://www.openhub.net/p/wakame-vdc/factoids)
 + 2015/01/09 [クラウド実践演習](http://www.topse.jp/syllabus/10/html/clpr2015.htm)
++ 2015/01/23 [Wakameユーザ会 #007 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/19378)
 + 2015/02/07 [wakame-vdc ( OpenVZ 版 HVA ) インストールメモ - YggdrasillNetwork Blog](http://ryoogata.github.io/2015/02/07/wakame-vdc/)
 + 2015/02/08 [Test and Deploy Wakame VDC With Chef - Edward’s Notes](https://blog.vortorus.net/2015/02/08/test-and-deploy-wakame-vdc-with-chef/)
 + 2015/02/19 [Wakame 用 カスタム KVM イメージ作成 - YggdrasillNetwork Blog](http://ryoogata.github.io/2015/02/19/wakame-vdc/)

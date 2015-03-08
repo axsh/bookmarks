@@ -54,10 +54,10 @@
 ####2012
 
 + 2012/01/04 [やむにやまれず : Wakame-VDC v11.12をリリースしてみて](http://blog.livedoor.jp/sparklegate/archives/50858707.html)
-+ 2012/02/28 [日本国内におけるOSSリーディングカンパニーが一堂に会するイベント EnterpriseOSSビジネスカンファレンスVol.1開催！　〜エンタープライズ領域でOSSを本格活用するための最新情報を公開〜 - 株式会社スマートスタイルのプレスリリース](http://www.value-press.com/pressrelease/92733)
 + 2012/02/15 [オープン・クラウドの記事: aji blog](http://ajiblog.sblo.jp/article/53922184.html)
 + 2012/02/21 [Wakame-VDCをエンタープライズのビッグデータ処理基盤として活用する](http://opencarf.org/wp-content/uploads/2012/02/GRACE-Seminar-20120221-04-yamasaki.pdf)
 + 2012/02/23 [第４回　「フクオカＲｕｂｙ大賞」　受賞作品発表！ - 福岡県Ruby・コンテンツビジネス振興会議](http://www.digitalfukuoka.jp/event_reports/7)
++ 2012/02/28 [日本国内におけるOSSリーディングカンパニーが一堂に会するイベント EnterpriseOSSビジネスカンファレンスVol.1開催！　〜エンタープライズ領域でOSSを本格活用するための最新情報を公開〜 - 株式会社スマートスタイルのプレスリリース](http://www.value-press.com/pressrelease/92733)
 + 2012/02/28 [日本国内における OSS リーディングカンパニーが一堂に会するイベントEnterpriseOSS ビジネスカンファレンス Vol.1 開催！](https://www.s-style.co.jp/pdf/pr_enterprise_oss_ss20120228.pdf)
 + 2012/03/01  [九電、文書処理速度30倍に　電力料金集計にも活用へ　　：日本経済新聞](http://www.nikkei.com/article/DGXNASJC2400D_Z20C12A2LX0000/)
 + 2012/03/09 [第五回 クラウドごった煮 : ATND](https://atnd.org/events/24264)

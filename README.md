@@ -1,7 +1,7 @@
 # axsh bookmarks
 
-+ [openvnet.md]
-+ [wakame-vdc.md]
++ [openvnet](openvnet.md)
++ [wakame-vdc](wakame-vdc.md)
 
 ## Contributing
 

@@ -8,6 +8,7 @@
 #### 2015
 
 + 2015/03/28 [第11回 クラウドごった煮（コンテナ勉強会） - connpass](http://connpass.com/event/12311/)
++ 2015/03/10 ["WakameVDC LiveDVD 15.03 RC2 をリリースしました。IPが自動取得できない環境の場合はセットアップ用のGUIを起動できるようにしました。使い方やダウンロード先の情報はこちら→ https://t.co/cs5O4Yx8VN"](https://twitter.com/habuka036/status/575326513324654592)
 + 2015/02/27 [MYNAVI 共同アンケート調査「OSSおよびOpenStack 利用実態」](http://www.valinux.co.jp/about/publication/pdf/ossreport2015.pdf)
 + 2015/02/22 [クラウド関連 メモ | 手は必ず見つかる - データ復旧技術者達の苦悩](http://hayato.data-salvage.co.jp/soliloquy/post-2759/)
 + 2015/02/19 [Wakame 用 カスタム KVM イメージ作成 - YggdrasillNetwork Blog](http://ryoogata.github.io/2015/02/19/wakame-vdc/)
@@ -135,7 +136,7 @@
 + 2012/10/04 [価値を生み出すオートスケールの活用術 | NTTデータ](http://www.nttdata.com/jp/ja/insights/trend_keyword/2012100401.html)
 + 2012/09/01 [第6回クラウドごった煮 - クラウドごった煮](http://www.cloudmix.jp/home/cloudmix6)
 + 2012/08/24 [やむにやまれず : Wakame-VDCをオープンソースライセンスにしている３つの理由](http://blog.livedoor.jp/sparklegate/archives/50876762.html)
-+ 2012/06/25 [Yasuhiro YamazakiさんはTwitterを使っています: "Wakame-VDCはたくさんのサーバを使ってHadoopぐるぐるさせるため、九電さんの基幹系バッチファームとして動いています。最近も、元気に調子良く動いていると言うご一報をいただきました。お客様からそう言うご報告いただけると嬉しいです。３ヶ月で構築しました。"](https://twitter.com/sparklegate/status/217169086361255936)
++ 2012/06/25 ["Wakame-VDCはたくさんのサーバを使ってHadoopぐるぐるさせるため、九電さんの基幹系バッチファームとして動いています。最近も、元気に調子良く動いていると言うご一報をいただきました。お客様からそう言うご報告いただけると嬉しいです。３ヶ月で構築しました。"](https://twitter.com/sparklegate/status/217169086361255936)
 + 2012/06/11 [Webサービス化するインフラと進化するコンピュータの概念](http://sig-sc.org/file/20120611/yamazaki_slide.pdf)
 + 2012/03/23 [あくしゅ「Wakame」のバックアップがIIJ GIOストレージに対応 | GIOろぐ](http://giolog.iij.ad.jp/2012/03/23/5954/)
 + 2012/03/15 [「第五回 クラウドごった煮」に参加して #cloudmix：『ビジネス2.0』の視点：ITmedia オルタナティブ・ブログ](http://blogs.itmedia.co.jp/business20/2012/03/cloudmix-01e3.html)

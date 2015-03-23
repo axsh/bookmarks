@@ -8,6 +8,7 @@
 #### 2015
 
 + 2015/03/28 [第11回 クラウドごった煮（コンテナ勉強会） - connpass](http://connpass.com/event/12311/)
++ 2015/03/25 [第十回クラウドごった煮 : ATND](https://atnd.org/events/62592)
 + 2015/03/18 [wakame-vdc v15.03.0](https://github.com/axsh/wakame-vdc/releases/tag/v15.03.0)
 + 2015/03/10 ["WakameVDC LiveDVD 15.03 RC2 をリリースしました。IPが自動取得できない環境の場合はセットアップ用のGUIを起動できるようにしました。使い方やダウンロード先の情報はこちら→ https://t.co/cs5O4Yx8VN"](https://twitter.com/habuka036/status/575326513324654592)
 + 2015/02/27 [MYNAVI 共同アンケート調査「OSSおよびOpenStack 利用実態」](http://www.valinux.co.jp/about/publication/pdf/ossreport2015.pdf)

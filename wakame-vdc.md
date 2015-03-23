@@ -8,6 +8,7 @@
 #### 2015
 
 + 2015/03/28 [第11回 クラウドごった煮（コンテナ勉強会） - connpass](http://connpass.com/event/12311/)
++ 2015/03/18 [wakame-vdc-v15.03.0](https://github.com/axsh/wakame-vdc/releases/tag/v15.03.0)
 + 2015/03/10 ["WakameVDC LiveDVD 15.03 RC2 をリリースしました。IPが自動取得できない環境の場合はセットアップ用のGUIを起動できるようにしました。使い方やダウンロード先の情報はこちら→ https://t.co/cs5O4Yx8VN"](https://twitter.com/habuka036/status/575326513324654592)
 + 2015/02/27 [MYNAVI 共同アンケート調査「OSSおよびOpenStack 利用実態」](http://www.valinux.co.jp/about/publication/pdf/ossreport2015.pdf)
 + 2015/02/22 [クラウド関連 メモ | 手は必ず見つかる - データ復旧技術者達の苦悩](http://hayato.data-salvage.co.jp/soliloquy/post-2759/)
@@ -102,6 +103,7 @@
 + 2013/09/03 [国産クラウドコントローラ「Wakame-vdc v13.08」が公開 - クラウド Watch](http://cloud.watch.impress.co.jp/docs/news/20130903_613791.html)
 + 2013/09/03 [Wakame-vdcの最新版v13.08をリリースしました。](http://axsh.jp/news/publicity/894)
 + 2013/09/03 [IaaS型クラウド環境構築ソフトウェア Wakame-vdc 最新版をリリース｜プレスリリース配信サービス【＠Press：アットプレス】](http://www.atpress.ne.jp/view/38404)
++ 2013/08/29 [wakame-vdc-v13.08.0](https://github.com/axsh/wakame-vdc/releases/tag/v13.08.0)
 + 2013/08/07 [ビジネスを支えるデータセンターに向けた日本発OSS「Wakame-vdc」の挑戦 | IT Leaders](http://it.impressbm.co.jp/articles/-/10546)
 + 2013/07/28 [Giving is Taking - Networking: 7月 2013](http://gvtkne.blogspot.jp/2013_07_01_archive.html)
 + 2013/07/26 [WUG #001: Wakame-vdc introduction and demo](http://www.slideshare.net/axshco/slides-39684558)
@@ -110,6 +112,7 @@
 + 2013/06/28 [Wakame-VDCにおける継続的改善(0/n) 安心して休みを取る | blog.hansode.org](http://blog.hansode.org/archives/52612187.html)
 + 2013/06/27 [商用パブリッククラウド２事例に見るWakame-vdcとカスタマイズ](http://cloudshow.jp/csj2013/report/S-001axsh.pdf)
 + 2013/06/15 [第8回クラウドごった煮 - クラウドごった煮](http://www.cloudmix.jp/home/cloudmix8)
++ 2013/06/13 [wakame-vdc-v13.06.0](https://github.com/axsh/wakame-vdc/releases/tag/v13.06.0)
 + 2013/05/31 [LinuxCon/CloudOpen Japan: Wakame-VDC: Yet Another Open Source Clou...](http://linuxconcloudopenjapan2013.sched.org/event/e119533c5f537adebcd59c53e0182d4a#.VPwJY_msVyU)
 + 2013/05/16 [やむにやまれず : Wakame-VDCを活用したKCCS様の新サービスGreenOffice Unified Cloudについて](http://blog.livedoor.jp/sparklegate/archives/50893005.html)
 + 2013/04/02 [ブログとレビューTrema塾 | Trema塾](http://www.trema.info/2013/04/trema_reviews/)
@@ -156,6 +159,7 @@
 #### 2011
 
 + 2011/12/26 [Wakame-vdcの最新版（v11.12）リリース、多数の機能拡張と、OpenFlowに対応 [ #opencloudjp ] | Open Source Cloud News J](https://osnewsj.wordpress.com/2011/12/26/wakame-vdc%E3%81%AE%E6%9C%80%E6%96%B0%E7%89%88%EF%BC%88v11-12%EF%BC%89%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%81%E5%A4%9A%E6%95%B0%E3%81%AE%E6%A9%9F%E8%83%BD%E6%8B%A1%E5%BC%B5%E3%81%A8%E3%80%81open/)
++ 2011/12/22 [wakame-vdc-v11.12.0](https://github.com/axsh/wakame-vdc/releases/tag/v11.12.0)
 + 2011/12/26 [26 | December | 2011 | Open Source Cloud News J](https://osnewsj.wordpress.com/2011/12/26/)
 + 2011/12/01 [OpenStackプロジェクトの全体像～詳細編～](https://www.nic.ad.jp/ja/materials/iw/2011/proceedings/d3/d3-09.pdf)
 + 2011/11/06 [OpenFlow in IaaS - Wakame](http://www.slideshare.net/yasuhiro_yamazaki/openflow-in-iaas-wakame)
@@ -167,6 +171,7 @@
 + 2011/07/07 [やむにやまれず : 【簡単】Ubuntu v11.04にWakame-VDCを入れてみよう！](http://blog.livedoor.jp/sparklegate/archives/50839104.html)
 + 2011/07/01 [タイトル： Wakame-VDC v11.06 Release　作成者： Yasuhiro Yamazaki](https://prezi.com/myms5xf59jce/wakame-vdc-v1106-release/)
 + 2011/07/01 [Wakame-vdc 11.06](http://ubuntuforums.org/showthread.php?t=1794425)
++ 2011/06/30 [wakame-vdc-v11.06.0](https://github.com/axsh/wakame-vdc/releases/tag/v11.06.0)
 + 2011/06/03 [6月30日 【オープンクラウドキャンパス】Cloud Technologies Meeting(東京都)](http://kokucheese.com/event/index/12881/)
 + 2011/06/03 [#occtm オープンクラウドキャンパス "Cloud Technologies Meeting" (4ページ目) - Togetterまとめ](http://togetter.com/li/156080?page=4)
 + 2011/03/31 [[Wakame] Wakame-vdcの開発効率を向上させるスクリプト vdc.sh | blog.hansode.org](http://blog.hansode.org/archives/52447553.html)
@@ -182,6 +187,7 @@
 
 #### 2010
 
++ 2010/12/24 [wakame-vdc-v10.12.0](https://github.com/axsh/wakame-vdc/releases/tag/v10.12.0)
 + 2010/12/20 [第3回 フルOSSクラウド構築レシピ | Think IT（シンクイット）](http://thinkit.co.jp/story/2010/12/20/1933)
 + 2010/12/11 [第1回クラウドごった煮 - クラウドごった煮](http://www.cloudmix.jp/home/cloudmix1)
 + 2010/12/11 [Wakame Project in cloud-mix](http://www.slideshare.net/yasuhiro_yamazaki/wakame-project-in-cloudmix)
@@ -204,7 +210,7 @@
 + 2010/07/09 [第2回クラウド勉強会 : ATND](https://atnd.org/events/5767)
 + 2010/05/07 [[Wakame] wakame-vdc環境を構築しよう | blog.hansode.org](http://blog.hansode.org/archives/52309666.html)
 + 2010/04/19 [あくしゅ、Amazon EC2のようなクラウド環境が作れるOSS「Wakame-vdc」公開 :ベンチャーニュース：Venture Now（ベンチャーナウ）](http://www.venturenow.jp/news/2010/04/19/2007_008250.html)
-+ 2010/04/19 [axsh/wakame-vdc](https://github.com/axsh/wakame-vdc)
++ 2010/04/19 [wakame-vdc-v10.11.0](https://github.com/axsh/wakame-vdc/releases/tag/v10.11.0)
 + 2010/04/19 [[Venture Now] 2010.04.19-02 ◆あくしゅ、Amazon EC2のようなクラウド環境が作れるOSS「Wakame-vdc」公開 ◆ (2010年4月19日発行) | [Venture NOW] - メルマ！](http://melma.com/backnumber_12184_4827924/)
 + 2010/04/15 [[Wakame][Ruby] [CentOS] RPM非依存のRuby環境構築 | blog.hansode.org](http://blog.hansode.org/archives/52296872.html)
 + 2010/03/12 [ニャンパス@レイクタウン 登尾のブログ: WakameTech #1 そろそろ本気でIaaS型クラウドを作る会のプレゼン資料](http://tnoborio.blogspot.jp/2010/03/wakametech-1-iaas.html)

@@ -8,6 +8,7 @@
 #### 2015
 
 + 2015/03/28 [第11回 クラウドごった煮（コンテナ勉強会） - connpass](http://connpass.com/event/12311/)
++ 2015/03/27 [rpmspecを修正せずにリリースIDを動的に指定する #WakameVdc | blog.hansode.org](http://blog.hansode.org/archives/52691122.html)
 + 2015/03/27 [Gitのコミット履歴からリリースIDを生成する #WakameVdc #OpenVNet | blog.hansode.org](http://blog.hansode.org/archives/52691115.html)
 + 2015/03/25 [第十回クラウドごった煮 : ATND](https://atnd.org/events/62592)
 + 2015/03/18 [axsh/enterprise-iaas-easy-builder](https://github.com/axsh/enterprise-iaas-easy-builder)

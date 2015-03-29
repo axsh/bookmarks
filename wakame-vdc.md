@@ -7,6 +7,7 @@
 
 #### 2015
 
++ 2015/03/28 [[レポート]「第11回 クラウドごった煮（コンテナ勉強会）」に参加してきた #cloudmix ｜ Developers.IO](http://dev.classmethod.jp/cloud/report-11th-cloud-gottani/)
 + 2015/03/28 [第11回 クラウドごった煮（コンテナ勉強会） - connpass](http://connpass.com/event/12311/)
 + 2015/03/27 [rpmspecを修正せずにリリースIDを動的に指定する #WakameVdc | blog.hansode.org](http://blog.hansode.org/archives/52691122.html)
 + 2015/03/27 [Gitのコミット履歴からリリースIDを生成する #WakameVdc #OpenVNet | blog.hansode.org](http://blog.hansode.org/archives/52691115.html)
@@ -15,6 +16,7 @@
 + 2015/03/18 [wakame-vdc v15.03.0](https://github.com/axsh/wakame-vdc/releases/tag/v15.03.0)
 + 2015/03/10 ["WakameVDC LiveDVD 15.03 RC2 をリリースしました。IPが自動取得できない環境の場合はセットアップ用のGUIを起動できるようにしました。使い方やダウンロード先の情報はこちら→ https://t.co/cs5O4Yx8VN"](https://twitter.com/habuka036/status/575326513324654592)
 + 2015/02/27 [MYNAVI 共同アンケート調査「OSSおよびOpenStack 利用実態」](http://www.valinux.co.jp/about/publication/pdf/ossreport2015.pdf)
++ 2015/02/22 [os:wakame:createtemplateimage [ほほほのほ]](http://www.seirios.org/seirios/dokuwiki/doku.php?id=os:wakame:createtemplateimage)
 + 2015/02/22 [クラウド関連 メモ | 手は必ず見つかる - データ復旧技術者達の苦悩](http://hayato.data-salvage.co.jp/soliloquy/post-2759/)
 + 2015/02/19 [Wakame 用 カスタム KVM イメージ作成 - YggdrasillNetwork Blog](http://ryoogata.github.io/2015/02/19/wakame-vdc/)
 + 2015/02/08 [Test and Deploy Wakame VDC With Chef - Edward’s Notes](https://blog.vortorus.net/2015/02/08/test-and-deploy-wakame-vdc-with-chef/)

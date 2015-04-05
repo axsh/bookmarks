@@ -9,6 +9,7 @@
 
 + 2015/04/17 [Wakameユーザ会 #008 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/23118)
 + 2015/04/02 [#WakameVdc 2015/03の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52691785.html)
++ 2015/03/31 [【ケーブルテクノフェア2015レポート】クラウドコンピューティング×オープンソース技術について講演｜KCCS](http://www.kccs.co.jp/topics/2015/011/index.html)
 + 2015/03/30 [Dockerの改修を一緒にやりませんか](http://www.slideshare.net/yasuhiro_yamazaki/docker-46440706)
 + 2015/03/28 [[レポート]「第11回 クラウドごった煮（コンテナ勉強会）」に参加してきた #cloudmix ｜ Developers.IO](http://dev.classmethod.jp/cloud/report-11th-cloud-gottani/)
 + 2015/03/28 [第11回 クラウドごった煮（コンテナ勉強会） - connpass](http://connpass.com/event/12311/)

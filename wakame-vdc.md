@@ -8,6 +8,7 @@
 #### 2015
 
 + 2015/04/17 [Wakameユーザ会 #008 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/23118)
++ 2015/04/05 [#WakameVdc リンクを日付順に列挙して振り返る | blog.hansode.org](http://blog.hansode.org/archives/52692082.html)
 + 2015/04/02 [#WakameVdc 2015/03の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52691785.html)
 + 2015/03/31 [【ケーブルテクノフェア2015レポート】クラウドコンピューティング×オープンソース技術について講演｜KCCS](http://www.kccs.co.jp/topics/2015/011/index.html)
 + 2015/03/30 [Dockerの改修を一緒にやりませんか](http://www.slideshare.net/yasuhiro_yamazaki/docker-46440706)

@@ -7,6 +7,7 @@
 
 #### 2015
 
++ 2015/05/07 [#WakameVdc 2015/04の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52695370.html)
 + 2015/04/17 [Wakameユーザ会 #008 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/23118)
 + 2015/04/05 [#WakameVdc リンクを日付順に列挙して振り返る | blog.hansode.org](http://blog.hansode.org/archives/52692082.html)
 + 2015/04/02 [#WakameVdc 2015/03の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52691785.html)

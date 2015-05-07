@@ -11,6 +11,7 @@
 
 + 2015/04/17 [akry/vnet-vagrant-dev](https://github.com/akry/vnet-vagrant-dev)
 + 2015/04/13 [Docker on Mesos with OpenVNet 手順詳細 - Qiita](http://qiita.com/qb0c80aE/items/d6f0cdcd260b6e048137)
++ 2015/04/12 [Docker on Mesos With OpenVNet (eng)](http://www.slideshare.net/qb0C80aE/cloudmix11-eng)
 + 2015/04/06 [qb0C80aE/Mesos_OpenVNet_Integration_Patch](https://github.com/qb0C80aE/Mesos_OpenVNet_Integration_Patch)
 + 2015/03/30 [Dockerの改修を一緒にやりませんか](http://www.slideshare.net/yasuhiro_yamazaki/docker-46440706)
 + 2015/03/30 [Docker on Mesos with OpenVNet](http://www.slideshare.net/qb0C80aE/cloudmix11-updated)

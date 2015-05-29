@@ -9,6 +9,22 @@
 
 #### 2015
 
++ 2015/05/26 [IS株式会社様と、仮想データセンター技術の共同開発を開始しました](http://axsh.jp/news/media/1003)
++ 2015/05/26 [クラウドを仮想化して操作を共通化するソフト、TISとあくしゅが共同開発：日経コンピュータDigital](http://itpro.nikkeibp.co.jp/atcl/ncd/14/457163/052600670/)
++ 2015/05/26 [TISとあくしゅ、クラウド間の差異を吸収する技術を共同開発 - エキサイトニュース](http://www.excite.co.jp/News/column_g/20150526/Cobs_199277.html)
++ 2015/05/25 [TISとあくしゅが、様々なクラウド間の差異を吸収してシステムの可搬性を高める新技術の開発を開始 : ニュースリリース : 経済 : 読売新聞（YOMIURI ONLINE）](http://www.yomiuri.co.jp/adv/economy/release/detail/00127487.html)
++ 2015/05/25 [2015年 | ニュース | TIS株式会社](https://www.tis.co.jp/news/2015/20150525_1.html)
++ 2015/05/25 [TISなど、システムのクラウドロックインを打破する技術の共同開発を開始 - ：ITpro Active](http://itpro.nikkeibp.co.jp/atclact/activer/nkpr/RSP387426_25052015/)
++ 2015/05/25 [TISとあくしゅが、様々なクラウド間の差異を吸収してシステムの可搬性を高める新技術の開発を開始｜ITホールディングスグループのプレスリリース](http://prtimes.jp/main/html/rd/p/000000048.000011650.html)
++ 2015/05/25 [日経プレスリリース](http://release.nikkei.co.jp/detail.cfm?relID=387426&lindID=1)
++ 2015/05/25 [TISと「あくしゅ」、クラウド間の差異を吸収してシステムの可搬性を高める新技術の開発を開始 - WorkMaster（ワークマスター）](http://www.work-master.net/201527861)
++ 2015/05/25 [TISとあくしゅ、クラウド間の差異を吸収する新技術の開発に着手 - Infoseek Tech](http://tech.news.infoseek.co.jp/article/codezine_8737)
++ 2015/05/25 [TISとあくしゅ、クラウド間の差異を吸収する新技術の開発に着手- 記事詳細｜Infoseekニュース](http://news.infoseek.co.jp/article/codezine_8737/)
++ 2015/05/25 [TISとあくしゅ、クラウド間の差異を吸収する新技術の開発に着手：CodeZine](http://codezine.jp/article/detail/8737)
++ 2015/05/25 [TISとあくしゅ、異なるクラウド間の差異を吸収、「クラウドロックイン」の打破を目指す - 朝日新聞デジタル＆Ｍ](http://www.asahi.com/and_M/interest/bcnnews/Cbcn2015052506.html)
++ 2015/05/25 [TISとあくしゅ、異なるクラウド間の差異を吸収、「クラウドロックイン」の打破を目指す （BCN） - Yahoo!ニュース](http://headlines.yahoo.co.jp/hl?a=20150525-00000006-bcn-prod)
++ 2015/05/25 [ニュース - クラウドを仮想化して操作を共通化するソフト、TISとあくしゅが共同開発：ITpro](http://itpro.nikkeibp.co.jp/atcl/news/15/052501727/)
++ 2015/05/25 [TISとあくしゅ、異なるクラウド間の差異を吸収、「クラウドロックイン」の打破を目指す | BCN Bizline](http://biz.bcnranking.jp/article/news/1505/150525_139444.html)
 + 2015/04/17 [akry/vnet-vagrant-dev](https://github.com/akry/vnet-vagrant-dev)
 + 2015/04/13 [Docker on Mesos with OpenVNet 手順詳細 - Qiita](http://qiita.com/qb0c80aE/items/d6f0cdcd260b6e048137)
 + 2015/04/12 [Docker on Mesos With OpenVNet (eng)](http://www.slideshare.net/qb0C80aE/cloudmix11-eng)

@@ -209,11 +209,11 @@
 + 2011/06/03 [#occtm オープンクラウドキャンパス "Cloud Technologies Meeting" (4ページ目) - Togetterまとめ](http://togetter.com/li/156080?page=4)
 + 2011/03/31 [[Wakame] Wakame-vdcの開発効率を向上させるスクリプト vdc.sh | blog.hansode.org](http://blog.hansode.org/archives/52447553.html)
 + 2011/03/24 [Wakame Project - 自作クラウド研究会](http://www.slideshare.net/yasuhiro_yamazaki/wakame-project)
-+ 2011/03/18 [プライベートクラウド構築に挑戦
++ 2011/03/18 [プライベートクラウド構築に挑戦](http://reposit.lib.kumamoto-u.ac.jp/bitstream/2298/23566/1/05A-V-4.pdf)
 + 2011/03/09 [人間とウェブの未来 - 近頃のオープンソースクラウド基盤動向](http://blog.matsumoto-r.jp/?p=1409)
 + 2011/02/18 [Wakame-vdc 開発苦労談](http://www.slideshare.net/hansode/20110207-wakamevdc)
 + 2011/02/18 [『2011/02/07(月) 第47回 GRACE セミナー #graceseminar 』参加 #Wakame-vdc | blog.hansode.org](http://blog.hansode.org/archives/52433836.html)
-+ 2011/02/07 [現場の声を形に Wakame Project
++ 2011/02/07 [現場の声を形に Wakame Project](http://www.opencarf.org/docs/20110207/20110207_wakame-vdc.pdf)
 + 2011/02/07 [Wakame-vdc 開発苦労談](http://www.slideshare.net/hansode/20110207-wakamevdc)
 + 2011/01/17 [Wakame-vdc検証報告書 « CREATIONLINE, INC.](http://www.creationline.com/lab/437)
 + 2011/01/12 [平成22年度会津産IT技術　akusyu | 会津若松市](http://www.city.aizuwakamatsu.fukushima.jp/docs/2007080800368/)

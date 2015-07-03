@@ -7,6 +7,7 @@
 
 #### 2015
 
++ 2015/06/03 [Wakame-vdc 2015/05の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52698088.html)
 + 2015/05/26 [IS株式会社様と、仮想データセンター技術の共同開発を開始しました](http://axsh.jp/news/media/1003)
 + 2015/05/26 [クラウドを仮想化して操作を共通化するソフト、TISとあくしゅが共同開発：日経コンピュータDigital](http://itpro.nikkeibp.co.jp/atcl/ncd/14/457163/052600670/)
 + 2015/05/26 [TISとあくしゅ、クラウド間の差異を吸収する技術を共同開発 - エキサイトニュース](http://www.excite.co.jp/News/column_g/20150526/Cobs_199277.html)

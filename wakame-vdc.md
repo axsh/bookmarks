@@ -7,6 +7,14 @@
 
 #### 2015
 
++ 2015/07/31 [Release v16.0.0 · axsh/wakame-vdc](https://github.com/axsh/wakame-vdc/releases/tag/v16.0.0)
++ 2015/07/27 [July Tech Festa2015に参加してきました #jtf2015 - ブロッコリーのブログ](http://nihonbuson.hatenadiary.jp/entry/2015/07/26/195331)
++ 2015/07/27 [Docker公認トレーニング講座とか、DVD１枚でプライベートクラウド(wakame)とか - ウィリアムのいたずらの開発日記](http://blog.goo.ne.jp/xmldtp/e/5cb91608f6dbfd603ada8cf75d581db2)
++ 2015/07/26 [JTF2015(July Tech Festa) 資料まとめ #jtf2015 - dackdive's blog](http://dackdive.hateblo.jp/entry/2015/07/26/190821)
++ 2015/07/26 [インフラエンジニアがUnityをやるべきたった一つの理由](http://www.slideshare.net/yasuhiro_yamazaki/unity-50940511)
++ 2015/07/25 [クラウド基盤を15分で構築しよう！Wakame-vdc で始めるお手軽クラウド生活 // Speaker Deck](https://speakerdeck.com/habuka036/kuraudoji-pan-wo15fen-degou-zhu-siyou-wakame-vdc-deshi-meruoshou-qing-kuraudosheng-huo)
++ 2015/07/17 [Wakameユーザ会 #009 - Wakame Users Group - Tokyo | Doorkeeper](https://wakame.doorkeeper.jp/events/28026)
++ 2015/07/03 [Wakame-vdc 2015/06の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52703023.html)
 + 2015/06/03 [Wakame-vdc 2015/05の出来事 | blog.hansode.org](http://blog.hansode.org/archives/52698088.html)
 + 2015/05/26 [IS株式会社様と、仮想データセンター技術の共同開発を開始しました](http://axsh.jp/news/media/1003)
 + 2015/05/26 [クラウドを仮想化して操作を共通化するソフト、TISとあくしゅが共同開発：日経コンピュータDigital](http://itpro.nikkeibp.co.jp/atcl/ncd/14/457163/052600670/)
